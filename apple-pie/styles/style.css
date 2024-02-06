@@ -56,4 +56,11 @@ p {
 
 .container {
   margine: 200;
+  border-right: 400px solid black;
+  border-left: 400px solid black;
+}
+
+.line {
+  border-right: 400px solid white;
+  border-left: 400px solid white;
 }
